@@ -50,4 +50,7 @@ var school = {
     st_id: 1,
     phonenumber: 9999999
 };
+var newItem = {
+    name: "sudheer"
+};
 console.log(school);
